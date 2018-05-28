@@ -1,0 +1,22 @@
+{
+  "name": "ahamed-blockchain-network",
+  "version": "0.0.1",
+  "description": "This is a new blockchain sample project build to showcase the capabilities of blockchain technology",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "author": "SheikAhamed",
+  "email": "sheikahamed.ali@gmail.com",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "composer-admin": "latest",
+    "composer-client": "latest",
+    "composer-common": "latest",
+    "composer-connector-embedded": "latest",
+    "chai": "latest",
+    "eslint": "latest",
+    "istanbul": "latest",
+    "mkdirp": "latest",
+    "mocha": "latest"
+  }
+}
